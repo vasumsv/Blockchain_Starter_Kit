@@ -8,7 +8,7 @@ A startup package to get start with building a Decentralized Application.
 
  ##### Run this command in your terminal
   ``` 
- git clone https://github.com/vasumsv/Electronic-Appliance-System.git
+ git clone https://github.com/vasumsv/Starter_Kit_For_Blockchain.git
  ```
  
  ### Next Step
