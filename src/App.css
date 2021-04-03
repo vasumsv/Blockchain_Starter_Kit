@@ -1,0 +1,82 @@
+/* PAGE */
+
+body,
+.pure-g [class*=pure-u] {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family:Arial, Helvetica, sans-serif;
+}
+ 
+code {
+  display: block;
+  margin: 20px 0 15px 0;
+  padding: 8px;
+  background: rgb(219, 219, 219);
+  color: #1e00a5;
+}
+
+.container {
+  text-align: center;
+  padding:48px ;
+   
+}
+
+#contentimg
+{
+  text-align: center;
+   
+}
+.aligncenter {
+  text-align: center;
+}
+.pure-button-primary {
+  background-color: #0c1a2b;
+}
+
+ 
+.pure-form input[type="text"]:focus {
+  border-color: #0c1a2b;
+}
+
+/* NAVBAR */
+
+.navbar {
+  position: absolute;
+  padding: 0px;
+  background: #000000;
+  font-family:monospace;
+  font-size:22px;
+}
+#headerimg
+{
+  width: 70px;
+  height: 50px;
+}
+.navbar a {
+  color: rgb(255, 255, 255);
+   
+}
+#centerimg{
+  width: 610px;
+  height: 410px;;
+}
+
+.navbar a:active,
+.navbar a:focus,
+ 
+
+.navbar .pure-menu-heading {
+  font-weight: bold;
+  text-transform: none;
+}
+
+.navbar .navbar-right {
+  float: right;
+}
+
+.navbar .uport-logo {
+  height: 16px;
+  margin-right: 10px;
+}
